@@ -1,13 +1,17 @@
 # National Intertidal Digital Elevation Model (NIDEM)
 
 **Date:** January 2019
+
 **Author:** Robbi Bishop-Taylor, Steven Sagar, Leo Lymburner
+
 **License:** CC BY Attribution 4.0 International License
 
 ## Data availability
 
 **THREDDS:** http://dapds00.nci.org.au/thredds/catalogs/fk4/nidem_1_0.html
+
 **eCat catalogue listing:** http://pid.geoscience.gov.au/dataset/ga/123678
+
 **National Map:** To view and access the data interactively, visit http://nationalmap.gov.au. Select 'Add data', and then the 'Surface Water and Marine/Tidal' theme. Click on 'National Intertidal Digital Elevation Model 25m 1.0.0' and then 'Add to the map'.
 
 ## Abstract
