@@ -12,7 +12,9 @@
 
 **eCat catalogue listing:** http://pid.geoscience.gov.au/dataset/ga/123678
 
-**National Map:** To view and access the data interactively, visit http://nationalmap.gov.au. Select 'Add data', and then the 'Surface Water and Marine/Tidal' theme. Click on 'National Intertidal Digital Elevation Model 25m 1.0.0' and then 'Add to the map'.
+**National Map:** To view and access the data interactively, visit [http://nationalmap.gov.au](https://nationalmap.gov.au/#share=s-q52mXOol8CTD4dexaRb7RdkminX). To add the layer, click 'Add data', and then the 'Surface Water and Marine/Tidal' theme. Click on 'National Intertidal Digital Elevation Model' and then 'Add to the map'.
+
+Data can also be downloaded from National Map by clicking on the map with the NIDEM layer loaded, and following the links to the geotiff files that appear in the pop-up under 'data_links'.
 
 ## Abstract
 
