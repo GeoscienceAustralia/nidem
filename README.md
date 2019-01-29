@@ -175,7 +175,7 @@ While image compositing and masking methods have been applied to remove the majo
 
 ## References
 
-Bishop-Taylor, R., Sagar, S., Lymburner, L., 2018. National Intertidal Digital Elevation Model 25m 1.0.0 [WWW Document]. Geoscience Australia. URL http://pid.geoscience.gov.au/dataset/ga/121620
+Bishop-Taylor, R., Sagar, S., Lymburner, L., 2018. National Intertidal Digital Elevation Model 25m 1.0.0 [WWW Document]. Geoscience Australia. URL http://pid.geoscience.gov.au/dataset/ga/123678
 
 Chen, Y., Dong, J., Xiao, X., Zhang, M., Tian, B., Zhou, Y., Li, B., Ma, Z., 2016. Land claim and loss of tidal flats in the Yangtze Estuary. Sci. Rep. 6, 24018. https://doi.org/10.1038/srep24018
 
