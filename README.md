@@ -2,7 +2,7 @@
 
 **Date:** March 2019
 
-**Author:** Robbi Bishop-Taylor, Steven Sagar, Leo Lymburner (Digital Earth Australia, Geoscience Australia)
+**Author:** Robbi Bishop-Taylor, Stephen Sagar, Leo Lymburner (Digital Earth Australia, Geoscience Australia)
 
 **License:** CC BY Attribution 4.0 International License
 
