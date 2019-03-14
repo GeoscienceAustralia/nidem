@@ -138,8 +138,8 @@ Attributes:
 * `lat`: latitude of the Voronoi point used to derive tidal heights for polygon
 * `lon`: longitude of the Voronoi point used to derive tidal heights for polygon
 * `spread`: proportion of the full modelled tidal range observed by Landsat for polygon
-* `offset_low`: the proportion of the lowest tidal heights not observed by Landsat for polygon
-* `offset_high`: the proportion of the highest tidal heights not observed by Landsat for polygon
+* `offset_low`: low tide offset; the proportion of the lowest tidal heights not observed by Landsat for polygon
+* `offset_high`: high tide offset; the proportion of the highest tidal heights not observed by Landsat for polygon
 
 ![NIDEM offset](bishoptaylor_2019/Revised_Figure7_offsetspread.png "NIDEM offset")
 
