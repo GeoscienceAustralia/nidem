@@ -68,7 +68,7 @@ Attributes:
 
 ### Unfiltered NIDEM
 
-The unfiltered NIDEM dataset provides un-cleaned elevation in metre units relative to modelled Mean Sea Level for each pixel of intertidal terrain across the Australian coastline. Compared to the default NIDEM product, these layers have not been filtered to remove noise, modelling artefacts or invalid elevation values (see NIDEM mask below). This supports applying custom filtering methods to the raw NIDEM data. The dataset consists of 306 raster files corresponding to the 306 ITEM v2.0 tidal modelling polygons, and a continental-scale mosaic.
+The unfiltered NIDEM dataset provides un-cleaned elevation in metre units relative to modelled Mean Sea Level for each pixel of intertidal terrain across the Australian coastline. Compared to the default NIDEM product, these layers have not been filtered to remove noise, modelling artefacts or invalid elevation values (see [NIDEM mask below](#nidem-mask)). This supports applying custom filtering methods to the raw NIDEM data. The dataset consists of 306 raster files corresponding to the 306 ITEM v2.0 tidal modelling polygons, and a continental-scale mosaic.
 
 Naming convention: 
 * `NIDEM_unfiltered_{polygon_id}_{tidalmodelling_coords}` 
@@ -115,7 +115,7 @@ Attributes:
 
 ### NIDEM waterline contours
 
-The NIDEM waterline contour dataset provides a vector representation of the boundary of every ten percent interval of the observed intertidal range. These contours were extracted along the boundary between each ITEM v2.0 tidal interval, and assigned the median and standard deviation (see NIDEM uncertainty above) of tide heights from the ensemble of corresponding Landsat observations. These datasets facilitate re-analysis by allowing alternative interpolation methods (e.g. kriging, splines) to be used to generate DEMs from median tide heights. The dataset consists of 306 shapefiles corresponding to polygons of the ITEM v2.0 continental scale tidal model.
+The NIDEM waterline contour dataset provides a vector representation of the boundary of every ten percent interval of the observed intertidal range. These contours were extracted along the boundary between each ITEM v2.0 tidal interval, and assigned the median and standard deviation (see [NIDEM uncertainty above](#nidem-uncertainty)) of tide heights from the ensemble of corresponding Landsat observations. These datasets facilitate re-analysis by allowing alternative interpolation methods (e.g. kriging, splines) to be used to generate DEMs from median tide heights. The dataset consists of 306 shapefiles corresponding to polygons of the ITEM v2.0 continental scale tidal model.
 
 Naming convention: 
 * `NIDEM_contours_{polygon_id}_{tidalmodelling_coords}`
@@ -187,7 +187,7 @@ Areas with comparatively steep coastlines and small tidal ranges are poorly capt
 
 Poor validation results for rocky shore and reef sites within the southern Kimberly region highlighted limitations in the NIDEM model that occur when the global OTPS TPX08 Atlas Tidal Model was unable to predict complex and asynchronous local tidal patterns. This is likely to also reduce model accuracy in complex estuaries and coastal wetlands where river flow or vegetative resistance causes hydrodynamic attenuation in tidal flow.
 
-The complex temporal behaviour of tides mean that a sun synchronous sensor like Landsat does not observe the full range of the tidal cycle at all locations. This causes spatial bias in the proportion of the tidal range observed in different regions, which can prevent NIDEM from providing elevation data for areas of the intertidal zone exposed or inundated at the extremes of the tidal range. Accordingly, NIDEM provides elevation data for the portion of the tidal range observed by Landsat, rather than the full tidal range. 
+The complex temporal behaviour of tides mean that a sun synchronous sensor like Landsat does not observe the full range of the tidal cycle at all locations (see [ITEM v2.0 tidal modelling polygons above](#item-v20-tidal-modelling-polygons)). This causes spatial bias in the proportion of the tidal range observed in different regions, which can prevent NIDEM from providing elevation data for areas of the intertidal zone exposed or inundated at the extremes of the tidal range. Accordingly, NIDEM provides elevation data for the portion of the tidal range observed by Landsat, rather than the full tidal range. 
 
 While image compositing and masking methods have been applied to remove the majority of noise and non-tidal artefacts from NIDEM, issues remain in several locations. It is recommended that the data be used with caution in the following areas:
 
