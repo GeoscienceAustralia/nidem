@@ -46,8 +46,9 @@ To generate NIDEM datasets:
 
 ## Output files
 
-The National Intertidal Digital Elevation Model (NIDEM) consists of four raster datasets (NIDEM, unfiltered NIDEM, NIDEM mask, NIDEM uncertainty) and two vector datasets (NIDEM waterline contours and ITEM v2.0 tidal modelling polygons). For convenience, the four raster datasets are provided both as individual geotiff/NetCDF files, and continental-scale geotiff mosaics. 
+The National Intertidal Digital Elevation Model (NIDEM) consists of four raster datasets (NIDEM, c and f below; unfiltered NIDEM, b and e below; NIDEM mask, a and d below; and NIDEM uncertainty) and two vector datasets (NIDEM waterline contours and ITEM v2.0 tidal modelling polygons). For convenience, the four raster datasets are provided both as individual geotiff/NetCDF files, and continental-scale geotiff mosaics. 
 
+![NIDEM mask/filtered/unfiltered](bishoptaylor_2019/Revised_Figure4_sixpanelcomp.png "NIDEM mask/filtered/unfiltered")
 
 ### NIDEM
 
