@@ -35,6 +35,7 @@ The rise and fall of the ocean can be used to describe the three-dimensional sha
 
 NIDEM differs from previous methods used to model the elevation of the intertidal zone which have predominately focused on extracting waterlines from a limited selection of satellite images using manual digitisation and visual interpretation (e.g. Chen and Rau 1998; Zhao et al. 2008; Liu et al. 2013; Chen et al. 2016). This manual process introduces subjectivity, is impractical to apply at a continental-scale, and has inherent restrictions based on the availability of high quality image data at appropriate tidal stages. By developing an automated approach to generating satellite-derived elevation data based on a 30 year time series of observations managed within the Digital Earth Australia (DEA) platform, it was possible to produce the first continental-scale three-dimensional model of the intertidal zone.
 
+![NIDEM process](bishoptaylor_2019/BishopTaylor_etal_NIDEM_graphicalabstract.png "NIDEM process")
 
 ## Running NIDEM code
 
