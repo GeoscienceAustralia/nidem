@@ -10,9 +10,9 @@
 
 **Scientific reference:** Bishop-Taylor et al. 2019 (https://doi.org/10.1016/j.ecss.2019.03.006)
 
-**THREDDS:** http://dapds00.nci.org.au/thredds/catalogs/fk4/nidem_1_0.html
+**THREDDS for data access:** http://dapds00.nci.org.au/thredds/catalogs/fk4/nidem_1_0.html
 
-**eCat catalogue listing:** http://pid.geoscience.gov.au/dataset/ga/123678
+**eCat catalogue listing with data access options:** http://pid.geoscience.gov.au/dataset/ga/123678
 
 **National Map:** To view and access the data interactively, visit [http://nationalmap.gov.au](https://nationalmap.gov.au/#share=s-q52mXOol8CTD4dexaRb7RdkminX). To add the layer, click 'Add data', and then the 'Surface Water and Marine/Tidal' theme. Click on 'National Intertidal Digital Elevation Model' and then 'Add to the map'.
 
