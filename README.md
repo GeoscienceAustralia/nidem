@@ -1,4 +1,4 @@
-# National Intertidal Digital Elevation Model (NIDEM)
+# Digital Earth Australia Intertidal Elevation (previously known as National Intertidal Digital Elevation Model or NIDEM)
 
 **Date:** March 2019
 
@@ -10,15 +10,15 @@
 
 **Scientific reference:** Bishop-Taylor et al. 2019 (https://doi.org/10.1016/j.ecss.2019.03.006)
 
-**THREDDS for data access:** http://dapds00.nci.org.au/thredds/catalogs/fk4/nidem_1_0.html
+**Download data:** http://pid.geoscience.gov.au/dataset/ga/123678
 
-**eCat catalogue listing with data access options:** http://pid.geoscience.gov.au/dataset/ga/123678
+**Product description and metadata:** https://cmi.ga.gov.au/data-products/dea/325/dea-intertidal-elevation-landsat
 
-**CMI listing for extended metadata:** https://cmi.ga.gov.au/nidem_25_1.0.0
+**THREDDS:** http://dapds00.nci.org.au/thredds/catalogs/fk4/nidem_1_0.html
 
-**National Map:** To view and access the data interactively, visit [http://nationalmap.gov.au](https://nationalmap.gov.au/#share=s-wHpbAGALiy7ecRK9fBdd8H4lBng). Select 'Add dat'a, and then the 'Surface Water and Marine/Coastal/Intertidal elevation model' theme. Click on 'NIDEM - Intertidal elevation model' and then 'Add to the map'.
+**DEA Maps:** To view and access the data interactively, visit [http://maps.dea.ga.gov.au/](http://maps.dea.ga.gov.au/#share=s-SgkrzFPegdMGCH6V6zkgEWLJTn). 
 
-Data can also be downloaded from *National Map* by clicking on the map with the NIDEM layer loaded, and following the links to the geotiff files that appear in the pop-up under 'data_links'.
+Data can also be downloaded from *DEA Maps* by clicking on the map with the NIDEM layer loaded, and following the links to the GeoTIFF files that appear in the pop-up under 'data_links'.
 
 
 ## Abstract
