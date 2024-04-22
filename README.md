@@ -1,3 +1,9 @@
+> [!WARNING]
+> **April 2024 update:** This repository and dataset has been superceded by the [newly released Digital Earth Intertidal product suite](https://knowledge.dea.ga.gov.au/data/product/dea-intertidal/?tab=overview).
+> Please refer to the [DEA Intertidal Github repository](https://github.com/GeoscienceAustralia/dea-intertidal) for up-to-date code suitable for generating intertidal outputs globally.
+
+---
+
 # Digital Earth Australia Intertidal Elevation (previously known as National Intertidal Digital Elevation Model or NIDEM)
 
 **Date:** March 2019
@@ -10,16 +16,7 @@
 
 **Scientific reference:** Bishop-Taylor et al. 2019 (https://doi.org/10.1016/j.ecss.2019.03.006)
 
-**Download data:** http://pid.geoscience.gov.au/dataset/ga/123678
-
-**Product description and metadata:** https://cmi.ga.gov.au/data-products/dea/325/dea-intertidal-elevation-landsat
-
-**THREDDS:** http://dapds00.nci.org.au/thredds/catalogs/fk4/nidem_1_0.html
-
-**DEA Maps:** To view and access the data interactively, visit [http://maps.dea.ga.gov.au/](http://maps.dea.ga.gov.au/#share=s-SgkrzFPegdMGCH6V6zkgEWLJTn). 
-
-Data can also be downloaded from *DEA Maps* by clicking on the map with the NIDEM layer loaded, and following the links to the GeoTIFF files that appear in the pop-up under 'data_links'.
-
+**Product description and metadata:** https://knowledge.dea.ga.gov.au/data/old-version/dea-intertidal-elevation-landsat-1.0.0 *(deprecated)*
 
 ## Abstract
 
