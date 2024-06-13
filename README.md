@@ -1,5 +1,5 @@
 > [!WARNING]
-> **April 2024 update:** This repository and dataset has been superceded by the [newly released Digital Earth Intertidal product suite](https://knowledge.dea.ga.gov.au/data/product/dea-intertidal/?tab=overview).
+> **April 2024 update:** This repository and dataset has been superseded by the [newly released Digital Earth Intertidal product suite](https://knowledge.dea.ga.gov.au/data/product/dea-intertidal/?tab=overview).
 > Please refer to the [DEA Intertidal Github repository](https://github.com/GeoscienceAustralia/dea-intertidal) for up-to-date code suitable for generating intertidal outputs globally.
 
 ---
